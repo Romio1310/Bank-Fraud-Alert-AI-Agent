@@ -1,0 +1,11 @@
+{
+    "drinkType": "espresso",
+    "size": "medium",
+    "milk": "whole",
+    "extras": [
+        "whipped cream"
+    ],
+    "name": "Kudip",
+    "timestamp": "2025-11-23T21:48:29.415239",
+    "session_id": "session_20251123_214829"
+}
